@@ -1,5 +1,19 @@
 {
-  "name": "Моя первая NFT",
-  "description": "Создано в рамках лабораторной работы №4",
-  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/1.png"
+  "name": "Task4 NFT #0",
+  "description": "Mass Mint Task4 #0",
+  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/1.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Mass Minted Task4"
+    },
+    {
+      "trait_type": "Index",
+      "value": "0"
+    },
+    {
+      "trait_type": "Created",
+      "value": "2025-11-15 11:22:04"
+    }
+  ]
 }
