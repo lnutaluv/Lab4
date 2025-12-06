@@ -1,19 +1,15 @@
 {
-  "name": "Task4 NFT #0",
-  "description": "Mass Mint Task4 #0",
+  "name": "Моя первая NFT",
+  "description": "ОБНОВЛЕНО: Создано в рамках лабораторной работы №4 (обновлено 06.12.2025 11:46)",
   "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/1.png",
   "attributes": [
     {
-      "trait_type": "Type",
-      "value": "Mass Minted Task4"
+      "trait_type": "Тип",
+      "value": "Тестовый NFT"
     },
     {
-      "trait_type": "Index",
-      "value": "0"
-    },
-    {
-      "trait_type": "Created",
-      "value": "2025-11-15 11:22:04"
+      "trait_type": "Последнее обновление",
+      "value": "2025-12-06 11:46:20"
     }
   ]
 }
