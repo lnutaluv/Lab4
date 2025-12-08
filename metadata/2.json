@@ -1,5 +1,15 @@
 {
-  "name": "Моя вторая NFT",
-  "description": "Создано в рамках лабораторной работы №4",
-  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/2.png"
+  "name": "Моя Вторая NFT",
+  "description": "ОБНОВЛЕНО: Создано в рамках лабораторной работы №4 (обновлено 08.12.2025 11:55)",
+  "image": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.png",
+  "attributes": [
+    {
+      "trait_type": "Тип",
+      "value": "Тестовый NFT"
+    },
+    {
+      "trait_type": "Последнее обновление",
+      "value": "2025-12-08 11:55:16"
+    }
+  ]
 }
