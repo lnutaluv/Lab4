@@ -1,15 +1,5 @@
 {
-  "name": "Моя Вторая NFT",
-  "description": "",
+  "name": "Вторая NFT",
+  "description": "ЛР4",
   "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/2.png",
-  "attributes": [
-    {
-      "trait_type": "Тип",
-      "value": "Тестовый NFT"
-    },
-    {
-      "trait_type": "Последнее обновление",
-      "value": "2025-12-08 11:58:35"
-    }
-  ]
 }
