@@ -1,5 +1,8 @@
 {
-  "name": "Первая NFT",
-  "description": "ЛР4",
-  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/1.png"
+  "name": "NFT #1",
+  "description": "Первый NFT учебной коллекции",
+  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/image/1.png",
+  "attributes": [
+    { "trait_type": "Number", "value": 1 }
+  ]
 }
