@@ -1,5 +1,8 @@
 {
-  "name": "Вторая NFT",
-  "description": "ЛР4",
-  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/2.png"
+  "name": "NFT #2",
+  "description": "Второй NFT учебной коллекции",
+  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/image/2.png",
+  "attributes": [
+    { "trait_type": "Number", "value": 2 }
+  ]
 }
