@@ -1,6 +1,8 @@
 {
-  "name": "Третья NFT",
-  "description": "ЛР4",
-  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/images/3.png"
+  "name": "NFT #3",
+  "description": "Третий NFT учебной коллекции",
+  "image": "https://raw.githubusercontent.com/lnutaluv/Lab4/main/image/3.png",
+  "attributes": [
+    { "trait_type": "Number", "value": 3 }
+  ]
 }
-
